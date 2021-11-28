@@ -10,3 +10,6 @@ For go to commit -  git chekout "hash_id"
 
 Додати всі файли - git add .
 
+Добавити репо, один раз пишемо  -  git remote add origin git@github.com:Alex7225/test-git.git
+Щоб подивитись удальоні репо  -  git remote --v
+Щоб залити код на репо  -  git push origin master  (origin, master  -  можуть бути інші значчення)
