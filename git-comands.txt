@@ -1,4 +1,12 @@
 For initilization repo - git init .
 For status repo -  git status 
 For add files in repo - git add "file_name"
-For create commit - git commit -m "discribe commit"
+				-u (всі зміненні файли)
+
+For create commit - git commit  -m "discribe commit"
+
+For history of commits  - git log
+For go to commit -  git chekout "hash_id"
+
+Додати всі файли - git add .
+
