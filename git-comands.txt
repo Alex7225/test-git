@@ -15,3 +15,9 @@ For go to commit -  git chekout "hash_id"
 Щоб залити код на репо  -  git push origin master  (origin, master  -  можуть бути інші значчення)
 
 Щоб достати код з віддаленого репо - git pull origin master  (origin, master  -  можуть бути інші значчення)
+
+ВЕТКИ (BRANCH)
+
+git branch  -  показує на якій ми вєтці
+git checkout -b <branch name> - створює нову ветка і переключає на цю вєтку
+git checkout <branch name> - переключає на цю вєтку
